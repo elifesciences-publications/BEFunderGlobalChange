@@ -1,0 +1,13 @@
+"","ECD.type","B.metric","path","Estimate","Std.Error","Crit.Value","DF","P.Value"
+"ResCoefs_pol_bef.2","Stressors","Diversity","B -> LD",0.416757,0.1701552,2.5037305,19,0.0215700722009829
+"ResCoefs_pol_bef.3","Stressors","Diversity","ECD -> LD",-0.0213776,0.0449965,-0.4712504,19,0.642827778845704
+"ResCoefs_pol_bef.8","Stressors","Diversity","ECD -> B",-0.1038169,0.042638,-2.4421156,18.026,0.0251331127378886
+"ResCoefs_pol_def.2","Stressors","Abundance","B -> LD",0.23607412371134,0.08118,2.96767072164948,25,0.00652499608952238
+"ResCoefs_pol_def.3","Stressors","Abundance","ECD -> LD",-0.0116754639175258,0.0280796907216495,-0.412979381443299,25,0.683142381230425
+"ResCoefs_pol_def.8","Stressors","Abundance","ECD -> B",0.00228835051546392,0.0482909278350515,0.0293530927835052,25,0.976816057826355
+"ResCoefs_nut_bef.2","Nutrients","Diversity","B -> LD",0.0070173,0.1064336,0.0624746,20,0.950805043768233
+"ResCoefs_nut_bef.3","Nutrients","Diversity","ECD -> LD",-0.0766642,0.0632321,-1.2133672,20,0.239125550016837
+"ResCoefs_nut_bef.8","Nutrients","Diversity","ECD -> B",-0.2527452,0.0722571,-3.5055908,19,0.00236514570201239
+"ResCoefs_nut_def.2","Nutrients","Abundance","B -> LD",0.0776366366366366,0.102728928928929,0.759708408408408,44,0.451480297690962
+"ResCoefs_nut_def.3","Nutrients","Abundance","ECD -> LD",-0.116488888888889,0.0540467467467467,-2.15577237237237,44,0.0366103341522916
+"ResCoefs_nut_def.8","Nutrients","Abundance","ECD -> B",-0.0620655655655656,0.0623962962962963,-1.00283133133133,44,0.321425621973997

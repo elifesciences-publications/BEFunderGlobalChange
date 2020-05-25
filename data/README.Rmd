@@ -1,0 +1,20 @@
+---
+title: "README"
+output: html_document
+---
+
+READ ME
+
+The data were collected from published papers and effect sizes were calculated as z-transformed 
+correlation coefficients between each outcome (decomposer diversity, abundance or litter decomposition)
+and the levels/concentrations of each chemical or nutrient. 
+
+The metadata file reports information about the variables across the different datasets of 
+effect sizes. 
+
+files "effect_size_B1.csv", "effect_size_D1.csv" and "effect_size_LD1.csv" contain effect sizes on decomposer biodiversity, decomposer abundance and biomass, and litter decomposition respectively. They were used to derive the first level meta-analysis.
+
+files "effect_size_BandEF1.csv" and "effect_size_DandEF1.csv" contain the effect sizes of stressors and nutrients on decomposer diversity and on decomposition, and on decomposer abundance and biomass and decomposition. Those were used for the SEM and second-level meta-analysis.
+
+Files with names starting with REF give the list of papers included in the analysis and the correspondance
+between studyID and references.

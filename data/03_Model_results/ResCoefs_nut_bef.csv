@@ -1,0 +1,18 @@
+"","Response","Predictor","Estimate","Std.Error","EstCi.lwr","EstCi.upr","Crit.Value","DF","Std.Estimate","Std.EstCi.lwr","Std.EstCi.upr"
+"1","zcor.ECD.LD","(Intercept)",0.8875814,0.3355464,0.8684975,0.9059025,2.6451494,24,0,0,0
+"2","zcor.ECD.LD","zcor.ECD.B",0.0070173,0.1064336,-0.065105,0.073255,0.0624746,20,0.0067251,-0.059825,0.0690075
+"3","zcor.ECD.LD","ECD_max",-0.0766642,0.0632321,-0.0840025,-0.0688975,-1.2133672,20,-0.1581356,-0.173205,-0.142095
+"4","zcor.ECD.LD","study_type",NA,NA,NA,NA,2.8108564,1,NA,NA,NA
+"5","zcor.ECD.LD","study_type = experimental",0.7901591,0.3317405,0.7692975,0.8086,2.381781,20,NA,NA,NA
+"6","zcor.ECD.LD","study_type = observational",0.1741131,0.1560487,0.1677975,0.1838025,1.1160216,20,NA,NA,NA
+"7","zcor.ECD.B","(Intercept)",-0.1098057,0.3298237,-0.37181,0.1700375,-0.3284022,24,0,0,0
+"8","zcor.ECD.B","ECD_max",-0.2527452,0.0722571,-0.335205,-0.17808,-3.5055908,19,-0.5559027,-0.705605,-0.3995825
+"9","zcor.ECD.B","study_type",NA,NA,NA,NA,0.1375696,1,NA,NA,NA
+"10","zcor.ECD.B","study_type = experimental",-0.002035,0.2919044,-0.08614,0.08141,-0.0038735,19,NA,NA,NA
+"11","zcor.ECD.B","study_type = observational",-0.0769027,0.1478573,-0.2158275,0.0991799999999999,-0.5442831,19,NA,NA,NA
+"12","zcor.ECD.B","taxonomic.group",NA,NA,NA,NA,12.9266247,1,NA,NA,NA
+"13","zcor.ECD.B","taxonomic.group = A",-0.3443335,0.1780618,-0.4860025,-0.18669,-1.9339597,19,NA,NA,NA
+"14","zcor.ECD.B","taxonomic.group = M",0.265398,0.196337,0.10488,0.495625,1.3352521,19,NA,NA,NA
+"15","zcor.ECD.B","B.metric",NA,NA,NA,NA,3.1727898,1,NA,NA,NA
+"16","zcor.ECD.B","B.metric = div_indices",-0.1588922,0.19626,-0.3490175,-0.00568500000000001,-0.8076037,19,NA,NA,NA
+"17","zcor.ECD.B","B.metric = richness",0.0799591,0.1623826,-0.0119125,0.188805,0.4931376,19,NA,NA,NA

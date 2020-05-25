@@ -1,0 +1,46 @@
+---
+title: "README"
+output: html_document
+---
+
+
+## Biodiversity mediated effects of stressors and nutrients on decomposition
+
+Beaumelle et al., 2020 eLife
+
+The codes and data for reproducing the analyses presented in the paper are given. 
+
+We asked if decomposition responses to chemical stressors and nutrient enrichment were 
+explained by shifts in decomposer diversity and abundances using meta-analysis.
+
+
+## File structure
+
+Codes starting with 01 are giving a general description of the datasets (0101), and a first level
+meta-analysis comparing the overall response of decomposer diversity, abundance and
+decomposition to chemical stressors and nutrient enrichment (0102). 
+
+Codes starting with 02 are the structural equation models (SEM) analyses. Script 0201... loads the datasets
+of effect sizes, 0202... reports the analysis for publication bias, 0203... run the models, and 0204...
+present the results and creates the final figures and tables presented in the manuscript.
+
+Codes starting with 03 are the second level meta-analysis, zooming into the results from the individual
+pieces of the SEMs and showing the effects of stressor or nutrient intensity on the outcomes, 
+and the differences between the responses of microbial and invertebrate decomposers, 
+experimental and observational studies and between diversity indices and taxonomic richness. 
+
+## Data
+
+The data were collected from published papers and effect sizes were calculated as z-transformed 
+correlation coefficients between each outcome (decomposer diversity, abundance or litter decomposition)
+and the levels/concentrations of each chemical or nutrient. 
+
+The metadata file reports information about the variables across the different datasets of 
+effect sizes. 
+
+files "effect_size_B1.csv", "effect_size_D1.csv" and "effect_size_LD1.csv" contain effect sizes on decomposer biodiversity, decomposer abundance and biomass, and litter decomposition respectively. They were used to derive the first level meta-analysis.
+
+files "effect_size_BandEF1.csv" and "effect_size_DandEF1.csv" contain the effect sizes of stressors and nutrients on decomposer diversity and on decomposition, and on decomposer abundance and biomass and decomposition. Those were used for the SEM and second-level meta-analysis.
+
+Files with names starting with REF give the list of papers included in the analysis and the correspondance
+between studyID and references.

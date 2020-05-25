@@ -1,0 +1,5 @@
+"","QM","P","Predictor","Response","ECD.type"
+"pol_bef",4.8037679142688,0.0283975656812492,"Taxonomic group","Diversity","Stressors"
+"pol_def",10.1030876843834,0.00148021110038089,"Taxonomic group","Abundance","Stressors"
+"nut_bef",12.7659799696402,0.000352980618993025,"Taxonomic group","Diversity","Nutrients"
+"nut_def",4.53028446084343,0.0333000820739629,"Taxonomic group","Abundance","Nutrients"
