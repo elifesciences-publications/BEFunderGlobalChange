@@ -4,9 +4,8 @@ output: html_document
 ---
 
 
-## Biodiversity mediated effects of stressors and nutrients on decomposition
+This code is associated with the paper from Beaumelle et al., "Biodiversity mediates the effects of stressors but not nutrients on litter decomposition". eLife, 2020. http://doi.org/10.7554/eLife.55659
 
-Beaumelle et al., 2020 eLife
 
 The codes and data for reproducing the analyses presented in the paper are given. 
 
